@@ -17,7 +17,6 @@
 
 <p align="center">
   <strong>
-    <a href="https://tracer-cloud.slack.com/archives/C0AL8S64936">Slack</a> ·
     <a href="https://app.tracer.cloud/">Getting Started</a> ·
     <a href="https://tracer.cloud/">Tracer Agent</a> ·
     <a href="https://tracer.mintlify.app/">Docs</a> ·
@@ -28,7 +27,7 @@
 
 <p>
   <a href="https://join.slack.com/t/tracer-cloud/shared_invite/zt-2xj0w3i3p-~EH0GFbZodFCXWkR7j3~w">
-    <img src="https://img.shields.io/badge/Join_our_Community_Slack_→-white?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Join Slack">
+    <img src="https://img.shields.io/badge/➜_Click_To_Join_Our_Slack-white?style=for-the-badge&logo=slack&logoColor=4A154B" alt="Join Slack">
   </a>
 </p>
 
